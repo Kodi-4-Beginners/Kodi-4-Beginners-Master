@@ -1,0 +1,77 @@
+------------------------
+Simply Player v1.2.1 (4-Dec-13)
+------------------------
+
+- Code cosmetics.
+
+
+------------------------
+Simply Player v1.2.0 (24-Nov-13)
+------------------------
+
+- Fixed issues with watched or unwatched indicators.
+- Fixed issues with strm playback from widgets (Gotham).
+- Fixed issues with trailers (metahandler).
+- The addon will try to find trailer even if it's not available by metahandler.
+- Added support for network locations (downloads and library folders).
+- Code cosmetics.
+
+
+------------------------
+Simply Player v1.1.3 (8-Nov-13)
+------------------------
+
+- Fixed issues about missing plot.
+
+
+------------------------
+Simply Player v1.1.2 (1-Nov-13)
+------------------------
+
+- Fixed issues about tvshow library integration.
+
+
+------------------------
+Simply Player v1.1.1 (1-Nov-13)
+------------------------
+
+- Fixed issues about season watched or unwatched ovelays.
+
+
+------------------------
+Simply Player v1.1.0 (31-Oct-13)
+------------------------
+
+- Added option to mark items as watched or unwatched (metahandler).
+- Added option to change or refresh movie and tvshow information.
+- Added option to refresh season and episode information.
+- Root folders can now be added to XBMC favourites.
+- Fixed issues about missing episode metadata.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Simply Player v1.0.2 (20-Oct-13)
+------------------------
+
+- Added subscriptions support.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Simply Player v1.0.1 (18-Oct-13)
+------------------------
+
+- Added downloading support.
+- Added "go to home" option in context menus.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Simply Player v1.0.0 (14-Oct-13)
+------------------------
+
+- Initial version

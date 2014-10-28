@@ -1,0 +1,161 @@
+------------------------
+Ororo TV v2.2.1 (27-Jun-14)
+------------------------
+
+- Added selector for subtitle settings.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.2.0 (17-Jun-14)
+------------------------
+
+- Re-work of addon.
+- Re-work of subscriptions.
+- Merged "Add to Library" and "Add subscription" options.
+- PseudoTV Live: All dialogs are now disabled (Resume, Playback info etc).
+- PseudoTV Live: All streams won't be marked as watched.
+- Removed watched indicators in tv show listings.
+- Removed watched indicators in season listings.
+- Updated all translations.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.1.2 (9-Jun-14)
+------------------------
+
+- Fixed issues with resolver.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.1.1 (23-May-14)
+------------------------
+
+- Fixed issues with all listings.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.1.0 (7-May-14)
+------------------------
+
+- Added full remote share support.
+- Fixed playback issues.
+- Tweaked all listings.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.0.4 (31-Mar-14)
+------------------------
+
+- Fixed "play from here".
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.0.3 (30-Mar-14)
+------------------------
+
+- Fixed issues with season listings.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.0.2 (5-Mar-14)
+------------------------
+
+- Tweaked internal subtitles.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.0.1 (2-Mar-14)
+------------------------
+
+- Re-work of subtitles (66 languages are now available).
+- Update all existing translations.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v2.0.0 (27-Feb-13)
+------------------------
+
+- Re-work of addon.
+- Added Dutch, French, Polish, Portuguese and Romanian translation.
+- Added option for resuming playback.
+- Tweaked playback from library.
+- Tweaked watched status.
+- Tweaked context menus.
+- Tweaked cache (less traffic to ororo.tv).
+- Removed everything outside ororo.tv database.
+- NOTE: Your favourites and subscriptions have to be re-added.
+- NOTE: Ororo TV Folder has to be cleaned.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v1.1.2 (17-Dec-13)
+------------------------
+
+- Fixed issues with library integration.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v1.1.1 (14-Dec-13)
+------------------------
+
+- Fixed login issues with shows.
+- Fixed issues with backup sources.
+- Tweaked addon's settings.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v1.1.0 (4-Dec-13)
+------------------------
+
+- Added auto-play support.
+- NOTE: Can be disabled in addon's settings.
+- Added priority options for sources.
+- Tweaked tv shows outside ororo.tv database.
+- Fixed various issues.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v1.0.3 (1-Dec-13)
+------------------------
+
+- Episode listings will always be available even if login is required but not provided.
+- Added support for tv show search outside ororo.tv database.
+- Added asterisk for tv shows outside ororo.tv database.
+- NOTE: Asterisk can be disabled in addon settings.
+- Tweaked ororo.tv resolver.
+- Code cosmetics.
+
+
+------------------------
+Ororo TV v1.0.2 (30-Nov-13)
+------------------------
+
+- Fixed issues with search.
+
+
+------------------------
+Ororo TV v1.0.1 (30-Nov-13)
+------------------------
+
+- Added log in support.
+- Tweaked context menus.
+
+
+------------------------
+Ororo TV v1.0.0 (28-Nov-13)
+------------------------
+
+- Initial version

@@ -1,0 +1,111 @@
+------------------------
+Hellenic Toons v2.5.0 (20-Mar-14)
+------------------------
+
+- Re-work of addon.
+- Added separate movie section.
+- Added separate tv show section.
+- Note: Your favourites have to be re-added.
+- Added section for movies with Greek audio.
+- Removed Nickelodeon network.
+- Added more movies from various sources.
+- Added more shows from various sources.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Toons v2.1.0 (9-Dec-13)
+------------------------
+
+- Added detection of replaced streams from various sources.
+- Added more shows from various sources.
+- Cleaned shows from various sources.
+- Added more nickelodeon shows.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Toons v2.0.3 (18-Nov-13)
+------------------------
+
+- Added new art.
+- Added more shows from various sources.
+- Now using posters for Nickelodeon and various sources.
+- Note: Your favourites have to be re-added.
+- Now using urlresolver.
+- Re-work of views.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Toons v2.0.2 (21-Oct-13)
+------------------------
+
+- Fixed flashx resolver.
+
+
+------------------------
+Hellenic Toons v2.0.1 (1-Oct-13)
+------------------------
+
+- Added more shows from various sources.
+- Added Putlocker resolver.
+- Fixed flashx resolver.
+- Tweaked Youtube resolver.
+- Tweaked info dialogs.
+
+
+------------------------
+Hellenic Toons v2.0.0 (19-Sep-13)
+------------------------
+
+- Complete re-work of the plugin.
+- Added threading support (faster loading of shows and episodes).
+- Re-work of YouTube shows.
+- Re-work of Nickelodeon shows.
+- Added more shows from various sources.
+- Tweaked context menus.
+- Code cosmetics.
+- Note: Your favourites have to be re-added.
+- Note: This is the last time I mess with them unless crawler demands it:)
+
+
+------------------------
+Hellenic Toons v1.0.4 (11-Apr-13)
+------------------------
+
+- Added more Nickelodeon shows.
+- Added fallback image in favourites.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Toons v1.0.3 (5-Apr-13)
+------------------------
+
+- Tweaked context menus.
+
+
+------------------------
+Hellenic Toons v1.0.2 (20-Mar-13)
+------------------------
+
+- Code cosmetics.
+- Switched to YouTube API.
+- Note: Your favourites have to be re-added.
+
+
+------------------------
+Hellenic Toons v1.0.1 (14-Mar-13)
+------------------------
+
+- Description cosmetics.
+
+
+------------------------
+Hellenic Toons v1.0.0 (13-Mar-13)
+------------------------
+
+- Initial version

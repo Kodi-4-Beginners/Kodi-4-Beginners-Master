@@ -1,0 +1,51 @@
+------------------------
+Extreme Sports v1.0.5 (29-Mar-14)
+------------------------
+
+- Tweaked video listings.
+- Fixed "play from here".
+- Tweaked cache.
+- Code cosmetics.
+
+
+------------------------
+Extreme Sports v1.0.4 (2-Mar-14)
+------------------------
+
+- Update all existing translations.
+- Code cosmetics.
+
+
+------------------------
+Extreme Sports v1.0.3 (25-Feb-14)
+------------------------
+
+- Tweaked resolvers.
+- Tweaked cache.
+- Updated French translation.
+- Code cosmetics.
+
+
+------------------------
+Extreme Sports v1.0.2 (17-Feb-14)
+------------------------
+
+- Added Portuguese translation.
+- Code cosmetics.
+
+
+------------------------
+Extreme Sports v1.0.1 (15-Feb-14)
+------------------------
+
+- Added new artwork.
+- Added option for showing user videos.
+- Added Dutch and French translation.
+- Code cosmetics.
+
+
+------------------------
+Extreme Sports v1.0.0 (12-Feb-14)
+------------------------
+
+- Initial version

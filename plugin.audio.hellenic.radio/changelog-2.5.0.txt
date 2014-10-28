@@ -1,0 +1,77 @@
+------------------------
+Hellenic Radio v2.5.0 (28-Mar-14)
+------------------------
+
+- Re-work of addon.
+- Added 58 new radios.
+- Updated existing radios.
+- Removed broken radios.
+- Tweaked playback.
+- Added sorting methods for favourites (Title, Genre, Area, Added).
+- Notifications are now silent in Gotham or later.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Radio v2.0.3 (18-Nov-13)
+------------------------
+
+- Added new art.
+- Updated existing radios.
+- Re-work of views.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Radio v2.0.2 (1-Oct-13)
+------------------------
+
+- Added ERA THESSALONIKI and ERA TRITO.
+- Updated existing radios.
+- Tweaked Youtube resolvers.
+- Tweaked info dialogs.
+
+
+------------------------
+Hellenic Radio v2.0.1 (10-Sep-13)
+------------------------
+
+- Updated existing radios.
+- Added more radios (Cyprus).
+- Added new resolvers.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Radio v2.0.0 (31-Aug-13)
+------------------------
+
+- Complete re-work of the plugin.
+- Updated existing radios.
+- Added more radios (Internet and regional).
+- Radios are stored in a seperate xml file.
+- Radios can be saved in favourites (apart from "My Stations").
+- Updated radio logos and folder icons.
+- Tweaked context menus.
+
+
+------------------------
+Hellenic Radio v1.1.0 (6-Nov-12)
+------------------------
+
+- Updated broken radios.
+- Added more radios (Athens and Thessaloniki).
+- Updated radio logos.
+- Added playercore check.
+- Tweaked addon's contextMenu.
+- Added more metadata.
+- Code clean-up.
+
+
+------------------------
+Hellenic Radio v1.0.0 (11-Mar-12)
+------------------------
+
+- Initial version

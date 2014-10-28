@@ -1,0 +1,63 @@
+------------------------
+Hellenic Movies v2.5.0 (21-Mar-14)
+------------------------
+
+- Re-work of addon.
+- Added fallback to greek-movies.com when no stream is available.
+- Added sorting methods for favourites (Title, Year, Added).
+- Added caching support.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Movies v2.1.0 (6-Dec-13)
+------------------------
+
+- Complete re-work of the plugin (website changes of Cine-Greece).
+- Removed movies from Greek-Movies (Cine-Greece is more than enough now).
+- NOTE: Your favourites have to be re-added.
+- Added section for genres.
+- Added section for years.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Movies v2.0.1 (18-Nov-13)
+------------------------
+
+- Added search option in favourites.
+- Added new art.
+- Now using urlresolver.
+- Re-work of views.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Movies v2.0.0 (1-Oct-13)
+------------------------
+
+- Complete re-work of the plugin.
+- Added threading support (faster loading of movies).
+- Re-work of movie search.
+- Tweaked context menus.
+- Tweaked info dialogs.
+- Code cosmetics.
+- Note: Your favourites have to be re-added.
+- Note: This is the last time I mess with them unless crawler demands it:)
+
+
+------------------------
+Hellenic Movies v1.0.1 (11-Apr-13)
+------------------------
+
+- Added fallback image in favourites.
+
+
+------------------------
+Hellenic Movies v1.0.0 (5-Apr-13)
+------------------------
+
+- Initial version

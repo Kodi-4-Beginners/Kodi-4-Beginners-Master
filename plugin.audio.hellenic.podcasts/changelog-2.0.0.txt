@@ -1,0 +1,17 @@
+------------------------
+Hellenic Podcasts v2.0.0 (22-Mar-14)
+------------------------
+
+- Re-work of addon.
+- Fixed REAL podcasts.
+- Fixed ALPHA podcasts.
+- Tweaked SKAI podcasts.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Podcasts v1.0.0 (18-Nov-13)
+------------------------
+
+- Initial version

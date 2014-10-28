@@ -1,0 +1,143 @@
+------------------------
+Viooz v1.5.2 (4-Sep-14)
+------------------------
+
+- Fixed issues with new domain.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.5.1 (27-Jun-14)
+------------------------
+
+- Added selector for subtitle settings.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.5.0 (17-Jun-14)
+------------------------
+
+- Re-work of addon.
+- Re-work of resolver.
+- PseudoTV Live: All dialogs are now disabled (Resume, Playback info etc).
+- PseudoTV Live: All streams won't be marked as watched.
+- Updated all translations.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.4.2 (10-May-14)
+------------------------
+
+- Tweaked viooz resolver.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.4.1 (9-May-14)
+------------------------
+
+- Tweaked all listings.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.4.0 (7-May-14)
+------------------------
+
+- Re-work of addon.
+- Added backup streams for non working movies.
+- Fixed playback issues.
+- Tweaked all listings.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.3.0 (22-Apr-14)
+------------------------
+
+- Fixed issues with resolver.
+- Added full remote share support.
+- Removed HD Movies section.
+- Added search by director.
+- Tweaked search sections.
+- Tweaked all listings.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.2.0 (30-Mar-14)
+------------------------
+
+- Re-work of HD Movies section.
+- Added proxy support (UK users).
+- Added search by actor.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.1.6 (5-Mar-14)
+------------------------
+
+- Tweaked internal subtitles.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.1.5 (4-Mar-14)
+------------------------
+
+- Fixed issues with resolver.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.1.4 (2-Mar-14)
+------------------------
+
+- Fixed various playback issues.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.1.3 (1-Mar-14)
+------------------------
+
+- Added new artwork.
+
+
+------------------------
+Viooz v1.1.2 (1-Mar-14)
+------------------------
+
+- Fixed issues with resolver.
+- Re-work of subtitles (66 languages are now available).
+- Update all existing translations.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.1.1 (25-Feb-14)
+------------------------
+
+- Updated French translation.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.1.0 (24-Feb-14)
+------------------------
+
+- Added missing sections.
+- Fixed various issues.
+- Added Portuguese translation.
+- Code cosmetics.
+
+
+------------------------
+Viooz v1.0.0 (23-Feb-14)
+------------------------
+
+- Initial version

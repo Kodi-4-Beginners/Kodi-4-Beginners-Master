@@ -1,0 +1,93 @@
+------------------------
+Hellenic Player v2.0.3 (15-Oct-14)
+------------------------
+
+- Fixed issues with MEGA.
+- Fixed issues with ALPHA.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v2.0.2 (31-Mar-14)
+------------------------
+
+- Tweaked ANT1 show listings.
+- Fixed "play from here".
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v2.0.1 (20-Mar-14)
+------------------------
+
+- Added missing MAD Greekz section.
+- Tweaked cache of show listings.
+- Tweaked Youtube listings.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v2.0.0 (16-Mar-14)
+------------------------
+
+- Re-work of addon.
+- Added RIK network.
+- Added SIGMA network.
+- Removed Nickelodeon network.
+- Fixed Novasports.gr videos.
+- Added SuperBALL (contra.gr) videos.
+- Added MTV charts.
+- Added RYTHMOS FM charts.
+- Removed MAD TV charts.
+- Tweaked ANT1 episode listings.
+- Tweaked ANT1 resolver.
+- Added proxy support for ANT1 videos.
+- Tweaked ALPHA episode listings.
+- Tweaked STAR show listings.
+- Added sorting methods for favourites.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v1.2.1 (18-Dec-13)
+------------------------
+
+- Fixed issues of alpha episodes.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v1.2.0 (12-Dec-13)
+------------------------
+
+- Complete re-work of ANT1 network.
+- Complete re-work of STAR network.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v1.1.0 (6-Dec-13)
+------------------------
+
+- Fixed issues in archives.
+- Fixed proxies for ant1 videos.
+- Added more nickelodeon shows.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v1.0.1 (18-Nov-13)
+------------------------
+
+- Added new art.
+- Removed built-in proxy.
+- Note: The addon will keep trying to find a working proxy for ant1 videos.
+- Code cosmetics.
+
+
+------------------------
+Hellenic Player v1.0.0 (11-Nov-13)
+------------------------
+
+- Initial version
