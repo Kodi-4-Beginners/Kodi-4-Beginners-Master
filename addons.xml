@@ -402,12 +402,12 @@
 	</extension>
 </addon>
 
-<addon id="repository.lambda" name="lambda's Kodi Add-ons" version="1.0.6" provider-name="lambda">
+<addon id="repository.lambda" name="lambda's Kodi Add-ons" version="1.0.7" provider-name="lambda">
 	<extension point="xbmc.addon.repository" name="lambda's Kodi Add-on Repository">
 		<dir>
-			<info compressed="false">https://github.com/lambda81/lambda-repo/raw/master/addons.xml</info>
-			<checksum>https://github.com/lambda81/lambda-repo/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/lambda81/lambda-repo/raw/master/</datadir>
+			<info compressed="false">http://raw.github.com/lambda81/lambda-repo/master/addons.xml</info>
+			<checksum>http://raw.github.com/lambda81/lambda-repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.github.com/lambda81/lambda-repo/master/</datadir>
 		</dir>
 		<info compressed="false">https://offshoregit.com/lambda81/lambda-repo/raw/master/addons.xml</info>
 		<checksum>https://offshoregit.com/lambda81/lambda-repo/raw/master/addons.xml.md5</checksum>
