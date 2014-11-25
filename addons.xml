@@ -69,19 +69,18 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.football.today" name="Football Today" version="2.1.5" provider-name="lambda">
+<addon id="plugin.video.football.today" name="Football Today" version="3.0.0" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-		<import addon="script.common.plugin.cache" version="0.9.1"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
+		<import addon="script.module.simplejson" optional="true"/>
+		<import addon="script.module.parsedom" optional="true"/>
 		<import addon="plugin.video.youtube" optional="true"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch football games whenever you want</summary>
+		<summary lang="en">Football on demand</summary>
 		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
@@ -116,87 +115,12 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.hellenic.movies" name="Hellenic Movies" version="2.5.0" provider-name="lambda">
+<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.0.0" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.urlresolver" version="1.0.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-		<import addon="script.common.plugin.cache" version="0.9.1"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
-		<import addon="plugin.video.youtube" version="2.9.2"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch your favourite greek movies anytime you want</summary>
-		<description lang="en">Watch your favourite greek movies anytime you want.[CR]The addon includes an archive of recent and classic greek movies.</description>
-		<summary lang="el">Παρακολουθήστε όλες τις αγαπημένες σας ελληνικές ταινίες ότι ώρα θέλετε</summary>
-		<description lang="el">Παρακολουθήστε όλες τις αγαπημένες σας ελληνικές ταινίες ότι ώρα θέλετε.[CR]Το πρόσθετο περιλαμβάνει αρχείο πρόσφατων και κλασικών ελληνικών ταινιών.</description>
-		<disclaimer lang="en">Τhis addon offers content available in Greece.</disclaimer>
-		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/lambda-addons</source>
-		<website>https://offshoregit.com/lambda81/</website>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.hellenic.player" name="Hellenic Player" version="2.0.3" provider-name="lambda">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="plugin.video.hellenic.tv" version="2.4.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-		<import addon="script.common.plugin.cache" version="0.9.1"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
+		<import addon="script.module.simplejson" optional="true"/>
+		<import addon="script.module.parsedom" optional="true"/>
 		<import addon="plugin.video.youtube" optional="true"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch the latest shows and news from all Greek networks</summary>
-		<summary lang="el">Δείτε πρόσφατα τηλεοπτικά προγράμματα και ειδήσεις από όλα τα ελληνικά δίκτυα</summary>
-		<description lang="en">Watch the latest shows and news from all Greek networks.[CR]The addon also includes an archive of shows that have been produced during the years.</description>
-		<description lang="el">Δείτε πρόσφατα τηλεοπτικά προγράμματα και ειδήσεις από όλα τα ελληνικά δίκτυα.[CR]Το πρόσθετο επίσης περιλαμβάνει αρχείο προγράμματων που έχουν παραχθεί κατά τη διάρκεια των ετών.</description>
-		<disclaimer lang="en">Τhis addon offers content available in Greece.</disclaimer>
-		<disclaimer lang="el">Το πρόσθετο αυτό προσφέρει περιεχόμενο διαθέσιμο στην Ελλάδα.</disclaimer>
-		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/lambda-addons</source>
-		<website>https://offshoregit.com/lambda81/</website>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.hellenic.toons" name="Hellenic Toons" version="2.5.0" provider-name="lambda">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.urlresolver" version="1.0.0"/>
-		<import addon="script.common.plugin.cache" version="0.9.1"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
-		<import addon="plugin.video.youtube" version="2.9.2"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch beloved cartoons in Greek</summary>
-		<summary lang="el">Δείτε αγαπημένα κινούμενα σχέδια στα Ελληνικά</summary>
-		<description lang="en">Watch beloved cartoons in Greek.</description>
-		<description lang="el">Δείτε αγαπημένα κινούμενα σχέδια στα Ελληνικά.</description>
-		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-		<disclaimer lang="el">Ο συγγραφέας δεν φιλοξενεί ή διανέμει οποιοδήποτε περιεχόμενο που εμφανίζεται από τo πρόσθετο αυτό. Ο συγγραφέας δεν έχει καμία σχέση με τον πάροχο του περιεχομένου.</disclaimer>
-		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/lambda-addons</source>
-		<website>https://offshoregit.com/lambda81/</website>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="2.6.9" provider-name="lambda">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
@@ -204,10 +128,9 @@
 	<extension point="xbmc.service" library="service.py" start="startup">
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Live TV from Greece.</summary>
-		<summary lang="el">Live TV από την Ελλάδα.</summary>
-		<description lang="en">Watch your favourite television networks from Greece.</description>
-		<description lang="el">Παρακολουθείστε τα αγαπημένα σας τηλεοπτικά δίκτυα από την Ελλάδα.</description>
+		<summary lang="en">Greek television</summary>
+		<summary lang="el">Ελληνική τηλεόραση</summary>
+		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">Τhis addon offers content available in Greece.</disclaimer>
 		<disclaimer lang="el">Το πρόσθετο αυτό προσφέρει περιεχόμενο διαθέσιμο στην Ελλάδα.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
@@ -263,19 +186,18 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.nbaondemand" name="NBA On-demand" version="1.1.6" provider-name="lambda,enen92">
+<addon id="plugin.video.nbaondemand" name="NBA On-demand" version="2.0.0" provider-name="lambda,enen92">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-		<import addon="script.common.plugin.cache" version="0.9.1"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
-		<import addon="plugin.video.youtube" version="2.9.2"/>
+		<import addon="script.module.simplejson" optional="true"/>
+		<import addon="script.module.parsedom" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch NBA games whenever you want</summary>
+		<summary lang="en">NBA on demand</summary>
 		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
@@ -285,19 +207,18 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.nhlondemand" name="NHL On-demand" version="1.0.1" provider-name="lambda">
+<addon id="plugin.video.nhlondemand" name="NHL On-demand" version="2.0.0" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-		<import addon="script.common.plugin.cache" version="0.9.1"/>
-		<import addon="script.module.parsedom" version="0.9.1"/>
-		<import addon="plugin.video.youtube" version="2.9.2"/>
+		<import addon="script.module.simplejson" optional="true"/>
+		<import addon="script.module.parsedom" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch NHL games whenever you want</summary>
+		<summary lang="en">NHL on demand</summary>
 		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
