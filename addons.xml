@@ -90,7 +90,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.genesis" name="Genesis" version="3.2.0" provider-name="lambda">
+<addon id="plugin.video.genesis" name="Genesis" version="3.2.1" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
@@ -109,7 +109,7 @@
 		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/lambda-addons</source>
+		<source>https://offshoregit.com/lambda81/</source>
 		<website>https://offshoregit.com/lambda81/</website>
 		<platform>all</platform>
 	</extension>
@@ -163,7 +163,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.muchmovies.hd" name="Much Movies HD" version="1.6.3" provider-name="lambda">
+<addon id="plugin.video.muchmovies.hd" name="Much Movies HD" version="1.7.0" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.metahandler" version="1.0.0"/>
@@ -180,7 +180,7 @@
 		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/lambda-addons</source>
+		<source>https://offshoregit.com/lambda81/</source>
 		<website>https://offshoregit.com/lambda81/</website>
 		<platform>all</platform>
 	</extension>
@@ -300,21 +300,16 @@
 	</extension>
 </addon>
 
-<addon id="repository.lambda" name="lambda's Kodi Add-ons" version="1.0.9" provider-name="lambda">
-	<extension point="xbmc.addon.repository" name="lambda's Kodi Add-on Repository">
+<addon id="repository.lambda" name="lambda Add-on repository" version="1.1.0" provider-name="lambda">
+	<extension point="xbmc.addon.repository" name="lambda Add-on repository">
 		<dir>
 			<info compressed="false">http://raw.github.com/lambda81/lambda-repo/master/addons.xml</info>
 			<checksum>http://raw.github.com/lambda81/lambda-repo/master/addons.xml.md5</checksum>
 			<datadir zip="true">http://raw.github.com/lambda81/lambda-repo/master/</datadir>
 		</dir>
-		<dir>
-			<info compressed="false">http://raw.github.com/lambda81/lambda-repo-2/master/addons.xml</info>
-			<checksum>http://raw.github.com/lambda81/lambda-repo-2/master/addons.xml.md5</checksum>
-			<datadir zip="true">http://raw.github.com/lambda81/lambda-repo-2/master/</datadir>
-		</dir>
-		<info compressed="false">https://offshoregit.com/lambda81/lambda-repo/raw/master/addons.xml</info>
-		<checksum>https://offshoregit.com/lambda81/lambda-repo/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://offshoregit.com/lambda81/lambda-repo/raw/master/</datadir>
+		<info compressed="false">https://offshoregit.com/lambda81/lambda-repo/addons.xml</info>
+		<checksum>https://offshoregit.com/lambda81/lambda-repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/lambda81/lambda-repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from lambda</summary>
